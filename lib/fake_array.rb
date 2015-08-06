@@ -1,5 +1,3 @@
-require 'pry'
-
 class FakeArray
   attr_accessor :nums
 
